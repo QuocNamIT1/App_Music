@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E040FB</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_gray">#E040FB</color>
+    <color name="light_gray">#FFFFFF</color>
+    <color name="light_gray_press">#26FFFFFF</color>
+    <color name="dark_gray_press">#00695C</color>
+    <drawable name="semitransparent_black">#26000000</drawable>
+</resources>

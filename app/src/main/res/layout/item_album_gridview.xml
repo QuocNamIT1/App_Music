@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="504px"
+    android:background="@drawable/selector_drawable"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/item_album_gridview_image"
+        android:layout_width="match_parent"
+        android:layout_height="384px"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_notification"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/item_album_gridview_name"
+        android:layout_width="match_parent"
+        android:layout_height="120px"
+        android:layout_gravity="bottom"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:textColor="#000000" />
+</LinearLayout>
